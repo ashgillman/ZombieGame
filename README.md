@@ -1,7 +1,7 @@
 
 
 # ZombieGame
-
+More a zombie simulator, this is my project to learn JavaScript basics and Node.js.
 
 
 ## Usage
